@@ -1,4 +1,5 @@
 images
 *.zip
-*.ipynb
+notebooks
 *.csv
+*.ipynb

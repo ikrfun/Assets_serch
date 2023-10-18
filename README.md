@@ -17,9 +17,9 @@ This repository contains Python scripts for image search and management using Op
 
 To install the required packages, run:
 
-\```bash
+```bash
 pip install -r requirements.txt
-\```
+```
 
 ## How to Use
 

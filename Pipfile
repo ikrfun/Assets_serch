@@ -9,14 +9,23 @@ aiosignal = "==1.2.0"
 ftfy = "*"
 regex = "*"
 tqdm = "*"
-torch = "*"
-torchvision = "*"
 jupyter = "*"
 jupyterlab = "*"
 bs4 = "*"
+sync = "*"
+pandas = "*"
+sklearn = "*"
+spacy = "*"
+install = "*"
+scikit-learn = "*"
+torch = "*"
+torchvision = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.10"
 python_full_version = "3.10.6"
+
+[pipenv]
+allow_prereleases = true
